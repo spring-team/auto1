@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-impost { Configuration } from "@atomist/automation-client";
+import { Configuration } from "@atomist/automation-client";
 import * as appRoot from "app-root-path";
 
 // tslint:disable-next-line:no-var-requires
